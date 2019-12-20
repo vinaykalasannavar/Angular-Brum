@@ -1,0 +1,20 @@
+<article>
+  <h1>
+    Here are the persons on our database.
+  </h1>
+
+  <table class="table">
+    <div *ngFor="let person of persons" (click)="choosePerson(person)">
+      <app-person [person]="person"></app-person>
+    </div>
+  </table>
+
+  <div *ngIf="selectedPerson">
+    <div>
+      Ok right, the person you have selected is:
+      <div>
+        <app-person [person]="selectedPerson"></app-person>
+      </div>
+    </div>
+  </div>
+</article>
