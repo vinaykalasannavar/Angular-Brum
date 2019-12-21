@@ -1184,11 +1184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Vinay\\Dev\\vk\\Angular Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\BrumNg.DataAccess.csproj",
+      "projectUniqueName": "C:\\Vinay\\Dev\\github\\Angular-Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\BrumNg.DataAccess.csproj",
       "projectName": "BrumNg.DataAccess",
-      "projectPath": "C:\\Vinay\\Dev\\vk\\Angular Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\BrumNg.DataAccess.csproj",
+      "projectPath": "C:\\Vinay\\Dev\\github\\Angular-Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\BrumNg.DataAccess.csproj",
       "packagesPath": "C:\\Users\\kvvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Vinay\\Dev\\vk\\Angular Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\obj\\",
+      "outputPath": "C:\\Vinay\\Dev\\github\\Angular-Brum\\Development\\BrumNgWebApp\\BrumNg.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kvvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
